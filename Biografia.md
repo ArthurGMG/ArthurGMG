@@ -4,12 +4,12 @@ Sou um estudante de Engenharia de Software pela UNDB, possuindo certificação d
 
 Software Engineering student at UNDB, certified in English proficiency WIZARD by Pearson technical course (2022). Accumulating experience in development areas such as Data Administration, Process Study, Database Developer and SQL Programming with an emphasis on communication projects and creative adaptability.
 
-- 🔭 Por enquanto estou focado em concluir meus afazeres do em minha graduação acadêmico.
-- 🌱 Aprendendo os essênciais de Back-End e SGDB.
+-  Por enquanto estou focado em concluir meus afazeres do em minha graduação acadêmico.
+-  Aprendendo os essênciais de Back-End e SGDB.
 
 Ferramentas, Linguagens e IDE Utilizadas:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
@@ -17,10 +17,6 @@ Ferramentas, Linguagens e IDE Utilizadas:
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CudsSmoky&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
